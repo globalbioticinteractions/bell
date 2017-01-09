@@ -1,4 +1,10 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "bell"
+  "format": "bell",
+  "resources": {
+    "bell/Bell_GloBI_Harb.csv": "Bell_GloBI_Harb.csv",
+    "bell/Bell_GloBI_Hcuc.csv": "Bell_GloBI_Hcuc.csv", 
+    "bell/Bell_GloBI_Npac.csv": "Bell_GloBI_Npac.csv", 
+    "bell/Bell_GloBI_Seut.csv": "Bell_GloBI_Seut.csv"
+  }
 }
